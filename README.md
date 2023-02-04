@@ -19,3 +19,4 @@ http://wiki.ros.org/rosserial_arduino/Tutorials/Blink
 
 https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/
 
+g15 right forward, g2 right backward, g0 left forward, g4 left backward
