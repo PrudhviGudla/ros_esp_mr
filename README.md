@@ -19,3 +19,9 @@ http://wiki.ros.org/rosserial_arduino/Tutorials/Blink
 
 https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/
 
+g15 right forward, g2 right backward, g0 left forward, g4 left backward
+
+http://wiki.ros.org/teleop_twist_keyboard
+
+https://randomnerdtutorials.com/esp32-pwm-arduino-ide/
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/ledc.html
