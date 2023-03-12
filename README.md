@@ -25,3 +25,7 @@ http://wiki.ros.org/teleop_twist_keyboard
 
 https://randomnerdtutorials.com/esp32-pwm-arduino-ide/
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/ledc.html
+
+https://github.com/espressif/arduino-esp32/issues/4807
+
+
